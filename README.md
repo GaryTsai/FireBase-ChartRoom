@@ -1,11 +1,9 @@
 # Firebase-CharRoom
 ## This is a project that use firebase to finish chart room
 
-# demo-chart
 
-> A Vue.js project
 
-## Build Setup
+### Build Setup
 
 ``` bash
 # install dependencies
